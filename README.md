@@ -1,2 +1,0 @@
-# CodeDeployGitHubDemo
-AWS Code Deploy
