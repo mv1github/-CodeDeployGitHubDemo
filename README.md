@@ -1,2 +1,2 @@
-# -CodeDeployGitHubDemo
+# CodeDeployGitHubDemo
 AWS Code Deploy
